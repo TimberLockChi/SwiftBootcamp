@@ -41,6 +41,7 @@
 		D35107362A77991400503983 /* SafeAreaBootcamps.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107182A77991400503983 /* SafeAreaBootcamps.swift */; };
 		D35107372A77991400503983 /* NavigationBootcamps.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107192A77991400503983 /* NavigationBootcamps.swift */; };
 		D35107382A77991400503983 /* StackBootcamps.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351071A2A77991400503983 /* StackBootcamps.swift */; };
+		D351073A2A77A88800503983 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107392A77A88800503983 /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		D35107182A77991400503983 /* SafeAreaBootcamps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamps.swift; sourceTree = "<group>"; };
 		D35107192A77991400503983 /* NavigationBootcamps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBootcamps.swift; sourceTree = "<group>"; };
 		D351071A2A77991400503983 /* StackBootcamps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StackBootcamps.swift; sourceTree = "<group>"; };
+		D35107392A77A88800503983 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				D35107082A77991200503983 /* ExtractSubviewBootcamp.swift */,
 				D35107142A77991300503983 /* ForeachBootcamps.swift */,
 				D351070F2A77991300503983 /* FrameBootcamps.swift */,
+				D35107392A77A88800503983 /* AlertBootcamp.swift */,
 				D35107112A77991300503983 /* GradientsBootcamp.swift */,
 				D35107102A77991300503983 /* GridBootcamps.swift */,
 				D35107052A77991200503983 /* IconBootcamps.swift */,
@@ -239,6 +242,7 @@
 				D35107232A77991400503983 /* IconBootcamps.swift in Sources */,
 				D351071F2A77991400503983 /* BackgroundBootcamps.swift in Sources */,
 				D35106F22A7798EA00503983 /* ContentView.swift in Sources */,
+				D351073A2A77A88800503983 /* AlertBootcamp.swift in Sources */,
 				D35107242A77991400503983 /* ScrollViewBootcamps.swift in Sources */,
 				D35107382A77991400503983 /* StackBootcamps.swift in Sources */,
 				D351071B2A77991400503983 /* SpacerBootcamps.swift in Sources */,
