@@ -47,6 +47,7 @@
 		D35107402A78A73900503983 /* TextFeildBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351073F2A78A73900503983 /* TextFeildBootcamp.swift */; };
 		D35107422A78AF6F00503983 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */; };
 		D35107442A78B24400503983 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107432A78B24400503983 /* ToggleBootcamp.swift */; };
+		D35107462A78D58A00503983 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107452A78D58900503983 /* PickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -91,6 +92,7 @@
 		D351073F2A78A73900503983 /* TextFeildBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFeildBootcamp.swift; sourceTree = "<group>"; };
 		D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		D35107432A78B24400503983 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
+		D35107452A78D58900503983 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				D35107432A78B24400503983 /* ToggleBootcamp.swift */,
 				D35107072A77991200503983 /* ConditionBootcamps.swift */,
 				D351073D2A789C0800503983 /* ContextMenuBootcamp.swift */,
+				D35107452A78D58900503983 /* PickerBootcamp.swift */,
 				D351073F2A78A73900503983 /* TextFeildBootcamp.swift */,
 				D35106FE2A77991100503983 /* ExtractBootcamp.swift */,
 				D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */,
@@ -264,6 +267,7 @@
 				D35107242A77991400503983 /* ScrollViewBootcamps.swift in Sources */,
 				D35107382A77991400503983 /* StackBootcamps.swift in Sources */,
 				D351071B2A77991400503983 /* SpacerBootcamps.swift in Sources */,
+				D35107462A78D58A00503983 /* PickerBootcamp.swift in Sources */,
 				D351072F2A77991400503983 /* GradientsBootcamp.swift in Sources */,
 				D351073C2A788E4300503983 /* ActionSheetBootcamp.swift in Sources */,
 				D351072B2A77991400503983 /* TextBootcamp.swift in Sources */,
