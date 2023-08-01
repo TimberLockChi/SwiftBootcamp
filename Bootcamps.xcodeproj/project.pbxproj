@@ -45,6 +45,7 @@
 		D351073C2A788E4300503983 /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351073B2A788E4300503983 /* ActionSheetBootcamp.swift */; };
 		D351073E2A789C0800503983 /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351073D2A789C0800503983 /* ContextMenuBootcamp.swift */; };
 		D35107402A78A73900503983 /* TextFeildBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351073F2A78A73900503983 /* TextFeildBootcamp.swift */; };
+		D35107422A78AF6F00503983 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -87,6 +88,7 @@
 		D351073B2A788E4300503983 /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 		D351073D2A789C0800503983 /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
 		D351073F2A78A73900503983 /* TextFeildBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFeildBootcamp.swift; sourceTree = "<group>"; };
+		D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				D351073D2A789C0800503983 /* ContextMenuBootcamp.swift */,
 				D351073F2A78A73900503983 /* TextFeildBootcamp.swift */,
 				D35106FE2A77991100503983 /* ExtractBootcamp.swift */,
+				D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */,
 				D35107082A77991200503983 /* ExtractSubviewBootcamp.swift */,
 				D35107142A77991300503983 /* ForeachBootcamps.swift */,
 				D351070F2A77991300503983 /* FrameBootcamps.swift */,
@@ -243,6 +246,7 @@
 				D35107352A77991400503983 /* StateBootcamp.swift in Sources */,
 				D35107362A77991400503983 /* SafeAreaBootcamps.swift in Sources */,
 				D35107332A77991400503983 /* TransitionBootcamps.swift in Sources */,
+				D35107422A78AF6F00503983 /* TextEditorBootcamp.swift in Sources */,
 				D35107282A77991400503983 /* InitializerBootcamps.swift in Sources */,
 				D35107372A77991400503983 /* NavigationBootcamps.swift in Sources */,
 				D351072A2A77991400503983 /* ColorsBootcamps.swift in Sources */,
