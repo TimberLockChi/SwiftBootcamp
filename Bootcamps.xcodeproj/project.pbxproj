@@ -42,6 +42,7 @@
 		D35107372A77991400503983 /* NavigationBootcamps.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107192A77991400503983 /* NavigationBootcamps.swift */; };
 		D35107382A77991400503983 /* StackBootcamps.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351071A2A77991400503983 /* StackBootcamps.swift */; };
 		D351073A2A77A88800503983 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107392A77A88800503983 /* AlertBootcamp.swift */; };
+		D351073C2A788E4300503983 /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351073B2A788E4300503983 /* ActionSheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		D35107192A77991400503983 /* NavigationBootcamps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBootcamps.swift; sourceTree = "<group>"; };
 		D351071A2A77991400503983 /* StackBootcamps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StackBootcamps.swift; sourceTree = "<group>"; };
 		D35107392A77A88800503983 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		D351073B2A788E4300503983 /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				D35107132A77991300503983 /* AnimationTimingBootcamp.swift */,
 				D35107012A77991100503983 /* BackgroundBootcamps.swift */,
 				D35107042A77991200503983 /* BindingBootcamp.swift */,
+				D351073B2A788E4300503983 /* ActionSheetBootcamp.swift */,
 				D35107122A77991300503983 /* ButtonBootcamps.swift */,
 				D351070C2A77991200503983 /* ColorsBootcamps.swift */,
 				D35107072A77991200503983 /* ConditionBootcamps.swift */,
@@ -247,6 +250,7 @@
 				D35107382A77991400503983 /* StackBootcamps.swift in Sources */,
 				D351071B2A77991400503983 /* SpacerBootcamps.swift in Sources */,
 				D351072F2A77991400503983 /* GradientsBootcamp.swift in Sources */,
+				D351073C2A788E4300503983 /* ActionSheetBootcamp.swift in Sources */,
 				D351072B2A77991400503983 /* TextBootcamp.swift in Sources */,
 				D35107302A77991400503983 /* ButtonBootcamps.swift in Sources */,
 				D35107262A77991400503983 /* ExtractSubviewBootcamp.swift in Sources */,
