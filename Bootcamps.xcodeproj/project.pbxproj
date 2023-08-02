@@ -48,6 +48,9 @@
 		D35107422A78AF6F00503983 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */; };
 		D35107442A78B24400503983 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107432A78B24400503983 /* ToggleBootcamp.swift */; };
 		D35107462A78D58A00503983 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107452A78D58900503983 /* PickerBootcamp.swift */; };
+		D35107482A78E12300503983 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107472A78E12300503983 /* DatePickerBootcamp.swift */; };
+		D351074A2A78EF9000503983 /* SteeperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107492A78EF9000503983 /* SteeperBootcamp.swift */; };
+		D351074C2A78F41700503983 /* TableViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351074B2A78F41700503983 /* TableViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -93,6 +96,9 @@
 		D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		D35107432A78B24400503983 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		D35107452A78D58900503983 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
+		D35107472A78E12300503983 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
+		D35107492A78EF9000503983 /* SteeperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SteeperBootcamp.swift; sourceTree = "<group>"; };
+		D351074B2A78F41700503983 /* TableViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,8 +142,11 @@
 				D351070C2A77991200503983 /* ColorsBootcamps.swift */,
 				D35107432A78B24400503983 /* ToggleBootcamp.swift */,
 				D35107072A77991200503983 /* ConditionBootcamps.swift */,
+				D35107472A78E12300503983 /* DatePickerBootcamp.swift */,
+				D351074B2A78F41700503983 /* TableViewBootcamp.swift */,
 				D351073D2A789C0800503983 /* ContextMenuBootcamp.swift */,
 				D35107452A78D58900503983 /* PickerBootcamp.swift */,
+				D35107492A78EF9000503983 /* SteeperBootcamp.swift */,
 				D351073F2A78A73900503983 /* TextFeildBootcamp.swift */,
 				D35106FE2A77991100503983 /* ExtractBootcamp.swift */,
 				D35107412A78AF6F00503983 /* TextEditorBootcamp.swift */,
@@ -252,12 +261,14 @@
 				D35107352A77991400503983 /* StateBootcamp.swift in Sources */,
 				D35107362A77991400503983 /* SafeAreaBootcamps.swift in Sources */,
 				D35107332A77991400503983 /* TransitionBootcamps.swift in Sources */,
+				D351074C2A78F41700503983 /* TableViewBootcamp.swift in Sources */,
 				D35107422A78AF6F00503983 /* TextEditorBootcamp.swift in Sources */,
 				D35107282A77991400503983 /* InitializerBootcamps.swift in Sources */,
 				D35107372A77991400503983 /* NavigationBootcamps.swift in Sources */,
 				D351072A2A77991400503983 /* ColorsBootcamps.swift in Sources */,
 				D351073E2A789C0800503983 /* ContextMenuBootcamp.swift in Sources */,
 				D351071D2A77991400503983 /* ShapesBootcamps.swift in Sources */,
+				D351074A2A78EF9000503983 /* SteeperBootcamp.swift in Sources */,
 				D351071E2A77991400503983 /* ListBootcamp.swift in Sources */,
 				D35107232A77991400503983 /* IconBootcamps.swift in Sources */,
 				D351071F2A77991400503983 /* BackgroundBootcamps.swift in Sources */,
@@ -284,6 +295,7 @@
 				D35107222A77991400503983 /* BindingBootcamp.swift in Sources */,
 				D35107342A77991400503983 /* AnimationBootcamps.swift in Sources */,
 				D351072D2A77991400503983 /* FrameBootcamps.swift in Sources */,
+				D35107482A78E12300503983 /* DatePickerBootcamp.swift in Sources */,
 				D35107212A77991400503983 /* SheetBootcamps.swift in Sources */,
 				D35107312A77991400503983 /* AnimationTimingBootcamp.swift in Sources */,
 				D35107292A77991400503983 /* TernaryBootcamps.swift in Sources */,
