@@ -60,6 +60,9 @@
 		D351075C2A7A309100503983 /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351075B2A7A309100503983 /* ViewModelBootcamp.swift */; };
 		D351075E2A7A436100503983 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351075D2A7A436100503983 /* EnvironmentObjectBootcamp.swift */; };
 		D35107602A7B2F4E00503983 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351075F2A7B2F4E00503983 /* AppStorageBootcamp.swift */; };
+		D35107632A7B46BC00503983 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107622A7B46BC00503983 /* IntroView.swift */; };
+		D35107692A7B4D6D00503983 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35107682A7B4D6D00503983 /* OnboardingView.swift */; };
+		D351076B2A7B8EC400503983 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D351076A2A7B8EC400503983 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -117,6 +120,9 @@
 		D351075B2A7A309100503983 /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 		D351075D2A7A436100503983 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		D351075F2A7B2F4E00503983 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
+		D35107622A7B46BC00503983 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		D35107682A7B4D6D00503983 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		D351076A2A7B8EC400503983 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +174,7 @@
 				D35107572A7A26CD00503983 /* ModelBootcamp.swift */,
 				D351075B2A7A309100503983 /* ViewModelBootcamp.swift */,
 				D35107492A78EF9000503983 /* SteeperBootcamp.swift */,
+				D35107612A7B46A800503983 /* OnboardingViews */,
 				D351075F2A7B2F4E00503983 /* AppStorageBootcamp.swift */,
 				D351075D2A7A436100503983 /* EnvironmentObjectBootcamp.swift */,
 				D35107552A7A23C300503983 /* TapGestureBootcamp.swift */,
@@ -212,6 +219,16 @@
 				D35106F62A7798EC00503983 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D35107612A7B46A800503983 /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				D35107622A7B46BC00503983 /* IntroView.swift */,
+				D35107682A7B4D6D00503983 /* OnboardingView.swift */,
+				D351076A2A7B8EC400503983 /* ProfileView.swift */,
+			);
+			path = OnboardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -301,6 +318,7 @@
 				D351074A2A78EF9000503983 /* SteeperBootcamp.swift in Sources */,
 				D351071E2A77991400503983 /* ListBootcamp.swift in Sources */,
 				D35107232A77991400503983 /* IconBootcamps.swift in Sources */,
+				D35107632A7B46BC00503983 /* IntroView.swift in Sources */,
 				D351071F2A77991400503983 /* BackgroundBootcamps.swift in Sources */,
 				D35107402A78A73900503983 /* TextFeildBootcamp.swift in Sources */,
 				D35107522A79F8AE00503983 /* AppearBootcamp.swift in Sources */,
@@ -311,6 +329,7 @@
 				D35107382A77991400503983 /* StackBootcamps.swift in Sources */,
 				D351071B2A77991400503983 /* SpacerBootcamps.swift in Sources */,
 				D35107462A78D58A00503983 /* PickerBootcamp.swift in Sources */,
+				D351076B2A7B8EC400503983 /* ProfileView.swift in Sources */,
 				D351072F2A77991400503983 /* GradientsBootcamp.swift in Sources */,
 				D351073C2A788E4300503983 /* ActionSheetBootcamp.swift in Sources */,
 				D351074E2A79E53900503983 /* DarkModeBootcamp.swift in Sources */,
@@ -322,6 +341,7 @@
 				D35107252A77991400503983 /* ConditionBootcamps.swift in Sources */,
 				D35107562A7A23C300503983 /* TapGestureBootcamp.swift in Sources */,
 				D35107202A77991400503983 /* ImageBootcamp.swift in Sources */,
+				D35107692A7B4D6D00503983 /* OnboardingView.swift in Sources */,
 				D351072E2A77991400503983 /* GridBootcamps.swift in Sources */,
 				D35106F02A7798EA00503983 /* BootcampsApp.swift in Sources */,
 				D35107272A77991400503983 /* paddingAndSpaceBootcamps.swift in Sources */,
